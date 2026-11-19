@@ -4,7 +4,7 @@ A collection of UI development practice programs and projects using **HTML, CSS,
 
 ## 📁 Project Structure
 
-
+```text
 UI Development/
 │
 ├── .vscode/
